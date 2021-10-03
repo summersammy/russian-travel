@@ -1,0 +1,9 @@
+.header__lang_status_unselected:lang(ru) {
+    text-decoration: none;
+    margin-left: 18px;
+}
+
+.header__lang_status_unselected:lang(en) {
+    text-decoration: none;
+    margin-right: 18px;
+}
