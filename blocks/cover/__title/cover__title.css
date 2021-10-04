@@ -3,16 +3,16 @@
     font-style: normal;
     font-weight: 900;
     font-size: 72px;
-    line-height: 76px;
+    line-height: 1.06;
     text-align: center;
-    margin: 20% auto 5%;
+    margin: 33% auto 0;
 }
 
 @media screen and (max-width: 580px) {
     .cover__title {
-        margin: 10% auto 5%;
+        margin: 16% auto 0;
         font-size: 32px;
-        line-height: 35px;
+        line-height: 1.09;
         max-width: 240px;
     }
 }

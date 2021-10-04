@@ -2,4 +2,5 @@
     max-width: 100%;
     grid-area: image;
     justify-self: center;
+    margin: 0;
 }

@@ -3,19 +3,13 @@
     font-size: 30px;
     line-height: 1.2;
     max-width: 583px;
-    margin: 0 0 78px;
-}
-
-@media screen and (max-width: 1024px) {
-    .lead__subtitle {
-        margin: 0 0 65px;
-    }
+    margin: 32px 0 64px;
 }
 
 @media screen and (max-width: 768px) {
     .lead__subtitle {
         max-width: 720px;
-        margin: 0 0 78px;
+        margin: 32px 0 56px;
     }
 }
 
@@ -24,6 +18,6 @@
         font-size: 16px;
         line-height: 1.4;
         max-width: 288px;
-        margin: 0 0 31px;
+        margin: 16px 0 40px;
     }
 }
