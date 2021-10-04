@@ -1,14 +1,16 @@
 .cover__link {
     position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     width: 100%;
-    display: block;
     text-decoration: none;
     background-position: top center;
     background-image: url(../../../images/cover-trains.jpg);
-    background-size: 100% 100%;
+    background-size: cover;
     color: #ffffff;
     z-index: 0;
-    overflow: hidden;
 }
 
 .cover__link::after {
