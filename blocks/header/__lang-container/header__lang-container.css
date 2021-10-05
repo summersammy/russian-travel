@@ -1,5 +1,6 @@
 .header__lang-container {
     display: flex;
     list-style-type: none;
+    margin: 18px 0 6px;
     padding: 0;
 }

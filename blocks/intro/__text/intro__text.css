@@ -2,23 +2,23 @@
     max-width: 683px;
     font-size: 16px;
     line-height: 1.63;
-    margin: 0 0 24px;
+    margin: 0 0 33px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1279px) {
     .intro__text {
         max-width: 692px;
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
     .intro__text {
         max-width: 720px;
     }
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 767px) {
     .intro__text {
-        margin: 0 0 32px;
+        margin: 0 0 34px;
     }
 }

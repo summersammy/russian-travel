@@ -6,17 +6,17 @@
 }
 
 .place__paragraph:nth-child(2) {
-    margin: 36px 0 0;
+    margin: 26px 0 0;
 }
 
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 1023px) {
     .place__paragraph {
         font-size: 16px;
         line-height: 1.63;
     }
 }
 
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 767px) {
     .place__paragraph:nth-child(2) {
         margin: 24px 0 0;
     }
